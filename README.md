@@ -1,2 +1,3 @@
 # File_Organiser
-This project is to test my knowledge on java and a useful pice of software. I really find it as a problem I just use to download many thing form the Internet and all the download files are unordered. so to fix this issue in my computer I made this code if you feel the same feel free to use this and also contribute to the repo .
+The purpose of this project is to both demonstrate my proficiency in Java and provide a practical software solution. I encountered a common issue where I regularly downloaded files from the Internet, resulting in a clutter of disorganized files on my computer. In order to address this problem, I developed a code that organizes downloaded files. If you've experienced a similar frustration, you're welcome to use this software and even contribute to its development on the repository.
+
